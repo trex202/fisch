@@ -31,7 +31,7 @@ AutoBlurCamera := true
 AutoBlurDelay := 50
 
 ; How long to wait after fishing before restarting
-RestartDelay := 1000
+RestartDelay := 5000
 
 ; How long to hold the cast for before releasing
 HoldRodCastDuration := 1000

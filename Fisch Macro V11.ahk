@@ -31,13 +31,13 @@ AutoBlurCamera := true
 AutoBlurDelay := 50
 
 ; How long to wait after fishing before restarting
-RestartDelay := 1000
+RestartDelay := 2500
 
 ; How long to hold the cast for before releasing
-HoldRodCastDuration := 1000
+HoldRodCastDuration := 1500
 
 ; How long to wait for the bobber to land in water
-WaitForBobberDelay := 1000
+WaitForBobberDelay := 1500
 
 ; Set this to your navigation key, IMPORTANT
 NavigationKey := "ň"
